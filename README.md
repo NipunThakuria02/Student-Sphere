@@ -29,13 +29,13 @@ Student Sphere is a community-driven platform where SRMIST students can discuss 
 
 ### Prerequisites
 - Node.js 20+ installed
-- Google OAuth credentials ([Get them here](https://console.cloud.google.com/apis/credentials))
+- Google OAuth credentials 
 
 ### Setup Instructions
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/krishnt02/Student-Sphere.git
+   git clone https://github.com/NipunThakuria02/Student-Sphere.git
    cd Student-Sphere
    ```
 
